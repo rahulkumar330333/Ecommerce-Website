@@ -26,13 +26,6 @@ The application is composed of the following Features:
 * It is also used to store user data 
 * In the future it will also hold all shopping related and cart related dtaa of each user.
 
-**Progress:**
-Version 1 completed and hosted
-
-Version 2 Progress: 50%
-<br/>
-![](src/assets/progressbar.png)
-
 
 **SCREENSHOTS:**
 
